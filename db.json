@@ -14,6 +14,11 @@
       "nombre": "1",
       "precio": 2,
       "id": 10
+    },
+    {
+      "nombre": "Producto de Prueba",
+      "precio": 1000,
+      "id": 11
     }
   ]
 }
